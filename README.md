@@ -1,5 +1,7 @@
 # Nicolas Page (`@nspage`)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=780&lines=Building+cool+things+with+code;Full+stack+developer)](https://git.io/typing-svg)
+
 > **I build the growth tool I was missing, for my own work, so the model never takes an action I can’t take back.**
 
 I'm a systems-minded growth operator and builder based in Paris. I design, script, and ship local pipelines, CLI agents, and data tools to solve specific go-to-market, research, and distribution bottlenecks.
