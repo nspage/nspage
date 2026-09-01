@@ -1,6 +1,6 @@
 # Nicolas Page (`@nspage`)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=53F3F7&background=FF733A00&multiline=true&width=435&lines=I+build+the+growth+tools+I+was+missing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=53F3F7&background=FF733A00&multiline=true&width=435&lines=I+build+the+growth+tools+I+was+missing)](https://git.io/typing-svg)
 
 > **I build the growth tools I was missing, for my own work, so the model never takes an action I can’t take back.**
 
