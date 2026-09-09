@@ -20,19 +20,6 @@ I'm a systems-minded growth operator and builder based in Paris. I design, scrip
 | **[Protocol Growth Engine](https://www.coolcoolcool.xyz/)** | Channel Prioritization & Experiments | Interactive channel matrix + RICE-style experiment scoring models to map and prioritize GTM initiatives under real budget constraints. |
 
 ---
-
-### ⚙️ Operator Stack & Build Habits
-
-- **Languages & Frameworks:** Python, TypeScript, React / Next.js, Node.js, SQL (PostgreSQL / SQLite).
-- **Pipelines & Infrastructure:** Cloudflare Workers & KV, Convex, n8n workflows, local SQLite CLIs, REST/GraphQL APIs, webhooks.
-- **AI & Agent Architecture:** MCP (Model Context Protocol) servers, structured schema generation (`google-genai` / interactions), automated research pipelines with mandatory human checkpoints.
-- **Operating Principles:**
-  - *Keep the gate:* Models run drafts, scoring, and research queues; humans pull the trigger on external actions (no autonomous spam, no auto-publishing).
-  - *Budget-capped hydration:* Disqualify early on first-party data; enrich only verified shortlists.
-  - *Evidence over vibes:* Reject ungrounded scores and synthetic vanity metrics.
-
----
-
 ### 📜 Background & Operator History
 
 - **Field & Community:** Founder of **Nec Mergitur** (Paris, 2022–2025; 125+ meetups, 3,500+ attendees, 1,500+ subscriber list — currently on hiatus).
